@@ -1,0 +1,4 @@
+/* Offsets scroll navigation so headers aren't hidden behind the sticky navbar */
+section[id] {
+  scroll-margin-top: 80px;
+}
